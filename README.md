@@ -38,7 +38,7 @@ Card information: 4242 4242 4242 4242
 MM/YY: 12 / 39  
 CVC: 567
 
-Make sure to replace stripe.secretKey with your own, and enjoy 😄!
+Make sure to replace stripe.secretKey with your own, and enjoy 😄! 
 
 📌 Note
 👉 This is a demo project for learning purposes only.
